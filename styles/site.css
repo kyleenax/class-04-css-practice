@@ -1,12 +1,27 @@
-
 body {
     background-color: #99c9a5;
     color: #0d0d0d;
+    font-family: sans-serif;
+}
+
+h1,
+h2 {
+    font-family: serif;
+}
+
+h1 {
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    font-family:'Courier New';
+    letter-spacing: 0.5em;
+}
+
+blockquote {
+    border-left: 5px solid navy;
 }
 
 /* Center text utility class */
 .text-center {
     text-align: center;
 }
-
-
