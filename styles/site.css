@@ -1,0 +1,12 @@
+
+body {
+    background-color: #99c9a5;
+    color: #0d0d0d;
+}
+
+/* Center text utility class */
+.text-center {
+    text-align: center;
+}
+
+
